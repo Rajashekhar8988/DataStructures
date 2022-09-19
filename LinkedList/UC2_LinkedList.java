@@ -1,7 +1,5 @@
 package bridgeLabz.Development.LinkedList;
 
-import bridgeLabz.Development.DataStructures.DemoLinkedList.Node;
-
 class PushData{
 	
 // head of list
