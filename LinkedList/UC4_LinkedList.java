@@ -29,6 +29,7 @@ class InsertAfter{
 	}
 	
 // Inserts a new Node at front of the list. 
+	
 	public void insertAfter(Node prev_node, int new_data)
     {
 // 1. Check if the given Node is null 
