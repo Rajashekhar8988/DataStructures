@@ -32,6 +32,7 @@ public void push(int new_data)
 }
 public void printList()
 {
+	System.out.print("LinkedList: ");
     Node tnode = head;
     while (tnode != null)
     {
