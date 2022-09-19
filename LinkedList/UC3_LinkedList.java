@@ -59,7 +59,7 @@ class AppendData{
     }
 	public void printList()
 	{
-		System.out.print("LinkedList: ");
+		System.out.print("LinkedList : ");
 	    Node tnode = head;
 	    while (tnode != null)
 	    {
